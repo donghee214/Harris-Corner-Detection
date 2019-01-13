@@ -1,4 +1,5 @@
 Implemented:
 
--RGB to Grayscale
--Harris Corner Detection (Detecting much more corners than anticipated however)
+- RGB to Grayscale
+- Harris Corner Detection (Detecting much more corners than anticipated however)
+- Canny Edge Detection
